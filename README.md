@@ -1,4 +1,3 @@
-# Employee-Management-sys
 
 # Employee Management System
 
